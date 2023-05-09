@@ -7,4 +7,6 @@ This is a simple Svelte project to provide a read-only view of film data provide
 To run the Svelte application first run the 'npm install' command followed by 'npm run dev -- --open'.
 
 ## Deployment
-TODO
+The Svelte application is automatically deployed to an Azure Static Web App at this URL via a yaml script included in this repository:
+
+- https://zealous-coast-02442e703.3.azurestaticapps.net
