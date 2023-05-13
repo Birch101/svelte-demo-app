@@ -1,5 +1,7 @@
 # Svelte Demo App
 
+[![Build & deploy to Azure Static Web App](https://github.com/Birch101/svelte-demo-app/actions/workflows/static-web-app-build-deploy.yml/badge.svg)](https://github.com/Birch101/svelte-demo-app/actions/workflows/static-web-app-build-deploy.yml)
+
 ## Overview
 This is a simple Svelte project to provide a read-only view of film data provided by the demo REST API (https://github.com/Birch101/rest-api-demo).
 
